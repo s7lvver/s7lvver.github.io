@@ -1,4 +1,4 @@
-*Die Titlezeile verschwindet, sobald die Dateien im richtigen Repository landen.*
+*Die Titelzeile verschwindet, sobald die Dateien im richtigen Repository landen.*
 
 # Tobias Stumpp
 
@@ -7,8 +7,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
----
-![Portrait](./img/tobias-portrait.png "Tobias P. Stumpp")
 ---
 
 ### ToDo Liste
@@ -19,4 +17,11 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [ ] Rückmeldung der erfolgreichen Repository-Übernahme (@s7lvver)
 - [ ] Änderung des DNS-Eintrags von `tobias.stumpp.name` bei IONOS
 - [ ] ERFOLG :white_check_mark:
+
+---
+
+![Portrait](./img/tobias-portrait.png =200x "Tobias P. Stumpp")
+
+---
+
 
