@@ -1,4 +1,4 @@
-*Die Titelzeile verschwindet, sobald die Dateien im richtigen Repository landen.*
+~~*Die Titelzeile verschwindet, sobald die Dateien im richtigen Repository landen.*~~
 
 # Tobias Stumpp
 
@@ -13,9 +13,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing [elitr](vita.md), sed diam non
 
 - [x] Umbenennen des Repositories in `s7lvver.github.io`
 - [x] Übertragung des Repositories an `s7lvver` anstoßen.
-- [ ] Übernahme des Repositories annehmen (@s7lvver)
-- [ ] Rückmeldung der erfolgreichen Repository-Übernahme (@s7lvver)
-- [ ] Änderung des DNS-Eintrags von `tobias.stumpp.name` bei IONOS
+- [x] Übernahme des Repositories annehmen (@s7lvver)
+- [x] Rückmeldung der erfolgreichen Repository-Übernahme (@s7lvver)
+- [x] Änderung des DNS-Eintrags von `tobias.stumpp.name` bei IONOS
 - [ ] ERFOLG
 
 ---
