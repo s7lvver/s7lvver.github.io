@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing [elitr](vita.md), sed diam non
 - [ ] Übernahme des Repositories annehmen (@s7lvver)
 - [ ] Rückmeldung der erfolgreichen Repository-Übernahme (@s7lvver)
 - [ ] Änderung des DNS-Eintrags von `tobias.stumpp.name` bei IONOS
-- [ ] ERFOLG :smiley: testen
+- [ ] ERFOLG
 
 ---
 
