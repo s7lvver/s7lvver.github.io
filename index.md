@@ -1,4 +1,4 @@
-~~*Die Titelzeile verschwindet, sobald die Dateien im richtigen Repository landen.*~~
+**Die Titelzeile mit dem Repository-Namen verschwindet auf jeden Fall, wenn man `index.html` statt `index.md` benutzt.**
 
 # Tobias Stumpp
 
