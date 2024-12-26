@@ -1,6 +1,6 @@
-*Die Titelzeile mit dem Repository-Namen verschwindet, sobald der Repository-Name korrigiert ist.*
-Richtig ist **`s7lvver.github.io`**
-Falsch ist ~~`s7vvler.github.io `~~
+*Die Titelzeile mit dem Repository-Namen verschwindet, sobald der Repository-Name korrigiert ist.*   
+Richtig ist **`s7lvver.github.io`**   
+Falsch ist ~~`s7vvler.github.io `~~   
 
 # Tobias Stumpp
 
