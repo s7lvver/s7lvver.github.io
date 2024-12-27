@@ -1,6 +1,4 @@
-*Die Titelzeile mit dem Repository-Namen verschwindet, sobald der Repository-Name korrigiert ist.*   
-Richtig ist **`s7lvver.github.io`**   
-Falsch ist ~~`s7vvler.github.io `~~   
+ 
 
 # Tobias Stumpp
 
@@ -11,6 +9,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing [elitr](vita.md), sed diam non
 
 ---
 
+*Die Titelzeile mit dem Repository-Namen wird durch die Konfiguration `_config.yml` unterdrückt.
+
 ### ToDo Liste
 
 - [x] Umbenennen des Repositories in `s7lvver.github.io`
@@ -18,6 +18,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing [elitr](vita.md), sed diam non
 - [x] Übernahme des Repositories annehmen (@s7lvver)
 - [x] Rückmeldung der erfolgreichen Repository-Übernahme (@s7lvver)
 - [x] Änderung des DNS-Eintrags von `tobias.stumpp.name` bei IONOS
+- [x] Titel unterdrücken durch Anlegen von _config.yml
 - [ ] ERFOLG
 
 ---
