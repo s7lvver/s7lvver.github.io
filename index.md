@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing [elitr](vita.md), sed diam non
 
 ---
 
-*Die Titelzeile mit dem Repository-Namen wird durch die Konfiguration `_config.yml` unterdrückt.
+*Die Titelzeile mit dem Repository-Namen wird durch die Konfiguration `_config.yml` unterdrückt.*
 
 ### ToDo Liste
 
