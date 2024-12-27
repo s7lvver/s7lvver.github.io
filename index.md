@@ -11,6 +11,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing [elitr](vita.md), sed diam non
 
 *Die Titelzeile mit dem Repository-Namen wird durch die Konfiguration `_config.yml` unterdrückt.*
 
+---
+### Hilfestellung
+- [Markdown Reference #1](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
+- [Markdown Reference #2](https://gist.github.com/stevenyap/7038119)
+- **Markdown Reference #3](https://gist.github.com/Myndex/5140d6fe98519bb15c503c490e713233)**
+- [Markdown als PDF](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+
 ### ToDo Liste
 
 - [x] Umbenennen des Repositories in `s7lvver.github.io`
