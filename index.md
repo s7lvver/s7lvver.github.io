@@ -26,7 +26,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing [elitr](vita.md), sed diam non
 - [x] Rückmeldung der erfolgreichen Repository-Übernahme (@s7lvver)
 - [x] Änderung des DNS-Eintrags von `tobias.stumpp.name` bei IONOS
 - [x] Titel unterdrücken durch Anlegen von _config.yml
-- [ ] ERFOLG
+- [x] ERFOLG
+
+
+Hallo Papa dies ist ein Test.
+“One ring to rule them all, one ring to find them, one ring to bring them all and in the darkness bind them.”
+"Ein Ring, sie zu knechten, sie alle zu finden, ins Dunkel zu treiben und ewig zu binden"
+
 
 ---
 
