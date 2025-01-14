@@ -1,7 +1,6 @@
 Module Mündliche Prüfung  
   
   
-| Programmieren  | Systemanalyse  | Datenbanken  | Softwareengineering  | IT-Management  | Projektmanagement  | Personal/Unternehmensführung |
-|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| Geschäftsprozessmanagement  | IT-Sicherheit  | Informationssicherheitsmanagement  | BWL  | Externes Rechnungswesen  | VWL  | Controlling |
-
+| Programmieren  | Systemanalyse  | Datenbanken  | Softwareengineering  | Informationssicherheitsmanagement |
+| Projektmanagement  | Personal/Unternehmensführung  | Geschäftsprozessmanagement  | IT-Management  | IT-Sicherheit  |
+| BWL  | Externes Rechnungswesen  | VWL  | Controlling |
