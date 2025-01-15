@@ -4,6 +4,9 @@
 
 ## UML - Diagramme
 [<img src="./img/UML_Notation-1.png">](./img/UML_Notation-1.png)
+[<img src="./img/UML_Notation-2.png">](./img/UML_Notation-2.png)
+[<img src="./img/UML_Notation-3.png">](./img/UML_Notation-3.png)
+[<img src="./img/UML_Notation-4.png">](./img/UML_Notation-4.png)
 ### Struktur Diagramme
 - Klassendiagramm
 - Objektdiagramm
