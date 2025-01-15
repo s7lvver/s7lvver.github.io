@@ -2,6 +2,8 @@
 
 ## ITSM - IT-Service-Management
 
+- [ITSM-Anmerkungen von Michael Stumpp](papa/itsm.md)
+
 5 Bücher des ITIL:
 Service Strategy
 Service Design
@@ -24,7 +26,6 @@ Jeder Customer muss das Service-Level des vom Provider erbrachten Services via K
 
 Outsourcing/Insourcing sind getrennt vom Service-Management -> Bei dieser Struktur können beliebig viele Provider extern sein ohne das es zu Problemen kommt.
 
-- [ITSM von Michael Stumpp](papa/itsm.md)
 
 ## EAM - Enterprise Architecture Management nach TOGAF Framework
 
