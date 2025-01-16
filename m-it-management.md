@@ -2,6 +2,8 @@
 
 ## ITSM - IT-Service-Management
 
+- [ITSM-Anmerkungen von Michael Stumpp](papa/itsm.md)
+
 5 Bücher des ITIL:
 Service Strategy
 Service Design
@@ -9,7 +11,7 @@ Service Transition
 Service Operation
 Continual Service Improvement
 
-ITSM nach ITIL -> Services sollten immer als ITSM nach ITIL bestellt werden damit Schnittstellen standadisiert sind.
+ITSM nach ITIL -> Services sollten immer als ITSM nach ITIL bestellt werden damit Schnittstellen standardisiert sind.
 
 Customer - Provider Struktur
 Was? - Wie? Fragenstruktur
@@ -23,6 +25,7 @@ Der Provider agiert zu seinen Providern als Customer.
 Jeder Customer muss das Service-Level des vom Provider erbrachten Services via KPIs messen und bewerten.
 
 Outsourcing/Insourcing sind getrennt vom Service-Management -> Bei dieser Struktur können beliebig viele Provider extern sein ohne das es zu Problemen kommt.
+
 
 ## EAM - Enterprise Architecture Management nach TOGAF Framework
 
