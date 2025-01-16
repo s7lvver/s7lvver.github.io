@@ -22,6 +22,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 	- [Entity Relationship Modell](papa/entityrelationship.md)
 	- [ITSM](papa/itsm.md)
 	- [RACI-Matrix](papa/raci.md)
+	- [String Datentyp](papa/strings.md)
 
 
 ---
