@@ -1,4 +1,4 @@
-## ITSM
+#IT Service Management nach ITIL
 
 ITSM steht für _**IT** **S**ervice **M**anagement_ und wird üblicherweise als "ITSM nach ITIL" verstanden. Dabei ist **ITIL** inzwischen das Standard-Framework für IT-Betrieb.
 
@@ -18,7 +18,7 @@ KPI -> Key Performance Indicator -> Kennzahl, welche das Ergebnis bzw. die Quali
 
 #### ITIL v3 Struktur
 
-==Die nachfolgende Aufzählung muss man nicht auswendig können. Sie dient lediglich der Anschauung, welche Themen in welchem der fünf ITIL-Bücher behandelt werden.==
+> Die nachfolgende Aufzählung muss man nicht auswendig können. Sie dient lediglich der Anschauung, welche Themen in welchem der fünf ITIL-Bücher behandelt werden.
 
 - _Service Strategy_
 	- Strategiefindung
@@ -31,7 +31,7 @@ KPI -> Key Performance Indicator -> Kennzahl, welche das Ergebnis bzw. die Quali
 	- Kapazitätsmanagement
 	- Verfügbarkeitsmanagement
 	- IT-Service-Notfallmanagemement
-	- ==Informationssicherheits-Management==
+	- Informationssicherheits-Management  &larr;
 	- Lieferantenmanagement
 - _Service Transition_
 	- Inbetriebnahmeplanung und -unterstützung
@@ -51,7 +51,7 @@ KPI -> Key Performance Indicator -> Kennzahl, welche das Ergebnis bzw. die Quali
 	- Servicemessung
 	- Serviceberichterstattunh
 
-![[itsm-v3-struktur.png]]
+![ITSM Struktur](itsm-v3-struktur.png)
 
 #### Quellen
 
