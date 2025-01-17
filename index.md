@@ -3,35 +3,35 @@
 # Tobias Stumpp
 
 [<img src="./img/tobias-portrait.png" style="margin:0 16px 8px 0;height:160px;float:left;">](./img/tobias-portrait.png)
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea [rebum](curriculum.md). Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea [rebum](curriculum). Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ---
 
 ### Prüfung 2025
 
-- [Module von Tobias Stumpp](modules.md)
-	- [Datenbanken](m-datenbanken.md)
-	- [IT-Management](m-it-management.md)
-	- [Programmieren](m-programmieren.md)
-	- [Software Engineering](m-softwareengineering.md)
-	- [Systemanalyse](m-systemanalyse.md)
+- [Module von Tobias Stumpp](modules)
+	- [Datenbanken](m-datenbanken)
+	- [IT-Management](m-it-management)
+	- [Programmieren](m-programmieren)
+	- [Software Engineering](m-softwareengineering)
+	- [Systemanalyse](m-systemanalyse)
    
 
 - Ergänzungen von Michael Stumpp
-	- [Datenbank-Begriffe](papa/datenbanken.md)
-	- [Entity Relationship Modell](papa/entityrelationship.md)
-	- [ITSM](papa/itsm.md)
-	- [Projektmanagement](papa/projektmanagement.md)
-	- [RACI-Matrix](papa/raci.md)
-	- [String Datentyp](papa/strings.md)
+	- [Datenbank-Begriffe](papa/datenbanken)
+	- [Entity Relationship Modell](papa/entityrelationship)
+	- [ITSM](papa/itsm)
+	- [Projektmanagement](papa/projektmanagement)
+	- [RACI-Matrix](papa/raci)
+	- [String Datentyp](papa/strings)
 
 
 ---
 
 ### Profil Tobias Stumpp
-- ["curriculum"](curriculum.md)
-- ["skills"](skills.md)
-- [Lebenslauf](vita.md)
+- ["curriculum"](curriculum)
+- ["skills"](skills)
+- [Lebenslauf](vita)
 
 
 ### Zitate 
