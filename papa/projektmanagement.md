@@ -13,9 +13,10 @@ Ein Projekt hat  **drei** Eigenschaften: **Ziel**, **Beginn** und **Ende**. Fehl
 
 > *Die Struktur der Anfrage entspricht stark dem PMBOK-Projektmodell, so dass ich mich daran orientiere. PRINCE2 hätte im Gegensatz dazu eine etwas andere Projektstruktur.
 
-- das Projektziel
-- der Projektbeginn
-- das Projektende
+
+- ~~das Projektzielv
+- ~~der Projektbeginnv
+- ~~das Projektende~~
 
 #### Anfrage
 - Grundlagen Projektmanagement
