@@ -17,6 +17,16 @@ Besonders im deutschsprachigen Raum ist das **„Magische Dreieck“** als Symbo
 - **Zeit**: Die **Dimension Zeit** steht für die [Zeitplanung](https://www.factro.de/blog/zeitplan-erstellen/) und beeinflusst die Einteilung der anderen beiden Werte. Die Zeit steht dabei auch, aber nicht nur, **für Start- und Enddatum des Projekts**, sondern auch für zwischenzeitliche Termine oder **wichtige Meilensteine**.
 - **Kosten**: Die **Dimension Kosten** beziffert die finanziellen Aufwände und das verfügbare Budget für das gesamte Projekt. Dieses sollte vor dem Start feststehen und nicht überschritten werden, damit **Projekte wirtschaftlich bleiben**. Hierfür eignet sich die [Kostenplanung](https://www.factro.de/blog/kostenplanung/) vor Projektbeginn.
 - **Leistung**: Unter der **Dimension Leistung** werden die gewünschten Ergebnisse zusammengefasst, die nach dem [Projektabschluss](https://www.factro.de/blog/projektabschluss/) erreicht sein sollen. Die Ziele sollten dabei nach der [SMART-Formel](https://www.factro.de/blog/smart-ziele/) aufgebaut und mit allen Projektbeteiligten, Entscheidungsträgern und Stakeholdern besprochen sein.
+
+#### Wichtige Praxisregel zum Magischen Dreieck
+
+> **Man kann immer nur zwei der drei Ecken festzurren, der dritte Faktor** (Dimension) **ergibt sich daraus.** Das mögen Entscheidungsträger in der Regel nicht wahrhaben.
+- Lege ich *Leistung/Qualität* und *Kosten/Ressourcen* fest, ergibt sich daraus die benötigte *Zeit* automatisch. Oder auch: Reduzierung der Kosten und Erweiterung der Leistungsanforderungen führen zu beliebig langen Projektlaufzeiten.
+- Lege ich *Leistung/Qualität* und *Zeit/Termin* fest, ergeben sich daraus die benötigten *Kosten/Ressourcen* automatisch. Oder auch: Erweiterung der Leistungsanforderungen und Festlegen kurzfristiger Termine führt zu beliebig hohen Kosten.
+- Lege ich *Kosten/Ressourcen*  und *Zeit/Termin* fest, ergibt sich daraus die erreichte *Leistung bzw./Qualität* automatisch. Oder auch: Reduzierung der Kosten und und Festlegen kurzfristiger Termine führt zu beliebig schlechter Qualität.
+
+> **Lege ich alle drei Dimensionen fest,  werde ich mein Projektziel nicht erreichen!**
+
 ## Phasen des Projektmanagements 
 
 (aus TIMO24.DE)
