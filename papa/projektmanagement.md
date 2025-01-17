@@ -9,7 +9,14 @@ Ein Projekt hat  **drei** Eigenschaften: **Ziel**, **Beginn** und **Ende**. Fehl
 - **PMBOK** (Project Management - Body of Knowledge) ist der Projektmanagement-Standard des PMI und ist weltweit anerkannt. der PMBOK-Guide beschreibt umfassend die verschiedenen Methoden des Projektmanagement.  Das PMBOK-Modell ist im Grundsatz prozessorientiert.
 - Die DIN-Normenreihe **DIN 69901** beschreibt **Grundlagen, Prozesse, Prozessmodell, Methoden, Daten, Datenmodell und Begriffe im Projektmanagement**. Unter dem Haupttitel Projektmanagement; Projektmanagementsysteme enthält diese Normenreihe fünf Teile 
 
+## Das magische Dreieck
 
+Besonders im deutschsprachigen Raum ist das **„Magische Dreieck“** als Symbol für drei zentrale Faktoren des [Projektmanagements](https://www.factro.de/blog/projektmanagement/) bekannt. Bei den Faktoren handelte es sich um **Zeit, Kosten und Leistung** (auch Zeit, Kosten, Ergebnis/Qualität). Das Ziel bzw. der Erfolgsfaktor positioniert sich dabei in der Mitte des Dreiecks.
+![Magisches Dreieck des Projektmanagements](projektmanagement-magisches-dreieck.png)
+
+- **Zeit**: Die **Dimension Zeit** steht für die [Zeitplanung](https://www.factro.de/blog/zeitplan-erstellen/) und beeinflusst die Einteilung der anderen beiden Werte. Die Zeit steht dabei auch, aber nicht nur, **für Start- und Enddatum des Projekts**, sondern auch für zwischenzeitliche Termine oder **wichtige Meilensteine**.
+- **Kosten**: Die **Dimension Kosten** beziffert die finanziellen Aufwände und das verfügbare Budget für das gesamte Projekt. Dieses sollte vor dem Start feststehen und nicht überschritten werden, damit **Projekte wirtschaftlich bleiben**. Hierfür eignet sich die [Kostenplanung](https://www.factro.de/blog/kostenplanung/) vor Projektbeginn.
+- **Leistung**: Unter der **Dimension Leistung** werden die gewünschten Ergebnisse zusammengefasst, die nach dem [Projektabschluss](https://www.factro.de/blog/projektabschluss/) erreicht sein sollen. Die Ziele sollten dabei nach der [SMART-Formel](https://www.factro.de/blog/smart-ziele/) aufgebaut und mit allen Projektbeteiligten, Entscheidungsträgern und Stakeholdern besprochen sein.
 ## Phasen des Projektmanagements 
 
 (aus TIMO24.DE)
@@ -29,10 +36,6 @@ Ein Projekt hat  **drei** Eigenschaften: **Ziel**, **Beginn** und **Ende**. Fehl
 |Abschlussprozessgruppe|Die Prozesse, die durchgeführt werden, um das Projekt, die Phase oder den Vertrag formell abzuschließen oder zu beenden.[[7]](https://de.wikipedia.org/wiki/PMBOK-Guide#cite_note-7)|
 
 
-- ~~das Projektziel~~
-- ~~der Projektbeginn~~
-- ~~das Projektende~~
-
 #### Anfrage
 - Grundlagen Projektmanagement
 - Initialisierungs- bzw. Definitionsphase
@@ -50,4 +53,4 @@ Ein Projekt hat  **drei** Eigenschaften: **Ziel**, **Beginn** und **Ende**. Fehl
 -  <https://de.wikipedia.org/wiki/PMBOK-Guide>
 - <https://www.timo24.de/blog/lexikon/projektphasen-im-projektmanagement/>
 - <https://de.wikipedia.org/wiki/DIN_69901>
-
+- <https://www.factro.de/blog/magisches-dreieck/>
