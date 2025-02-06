@@ -16,3 +16,5 @@ Gliederung:
     3. E-Payment
 5. Social Media und E-Commerce
 6. Die Zukunft des E-Commerce?
+
+Präsentationsthema: KI in der Nachkaufphase (After Sales und Kundenbindung)
