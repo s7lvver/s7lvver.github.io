@@ -33,7 +33,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - ["skills"](skills)
 - [Lebenslauf](vita)
 
-
+### Bachelorarbeit
+- [Übersicht](bachelor/overview)
 ### Zitate 
 “One ring to rule them all, one ring to find them, one ring to bring them all and in the darkness bind them.”   
 "Ein Ring, sie zu knechten, sie alle zu finden, ins Dunkel zu treiben und ewig zu binden"
