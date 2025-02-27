@@ -10,33 +10,32 @@
 Intrusion Detection Systeme (IDS) dienen der Erkennung von Cyber-Angriffen in Netzwerken und Hosts in Echtzeit. Diese Bachelorarbeit untersucht, welche transformativen Potenziale der Einsatz von Künstlicher Intelligenz in IDS bietet, vor dem Hintergrund des aktuellen Stands der Technik, bestehender Alternativansätze, gegenwärtiger Herausforderungen und zukünftiger Entwicklungschancen. Durch eine theoretische Analyse aktueller Literatur werden zunächst der Status Quo beleuchtet – insbesondere die Nutzung von Machine-Learning- und Deep-Learning-Methoden in heutigen IDS – sowie alternative (nicht-KI-basierte) Methoden dargestellt, um einen Vergleich der Ansätze zu ermöglichen. Anschließend werden die zentralen Herausforderungen beim Einsatz von KI in IDS herausgearbeitet, darunter technische Hürden wie hohe Fehlalarmraten, Datenmangel und adversarielle Angriffe​, sowie Aspekte der Erklärbarkeit und Vertrauenswürdigkeit von KI-Modellen. Anhand von Anwendungsfällen (z. B. KI-basierte Anomalieerkennung in IoT-Netzwerken) werden diese Probleme veranschaulicht. Abschließend diskutiert die Arbeit Zukunftspotenziale: von Fortschritten in den KI-Algorithmen – etwa robustere Modelle, Online-Learning und adversarielles Training zur Reduktion von Fehlalarmen – bis hin zur Integration von Explainable AI für mehr Transparenz und der automatisierten Angriffserkennung und -abwehr in Echtzeit. Es wird erwartet, dass KI-basierte IDS die Erkennungsrate und Adaptivität deutlich steigern und sogar unbekannte Angriffe proaktiv erkennen können​. Allerdings zeigt die Analyse auch, dass zur umfassenden praktischen Nutzbarkeit dieser Systeme die genannten Herausforderungen adressiert werden müssen – insbesondere die Verringerung von False Positives und die Verbesserung der Nachvollziehbarkeit der Entscheidungen. Durch die Beantwortung der Forschungsfrage leistet die Arbeit einen Beitrag zum Verständnis, wie KI die IT-Sicherheit durch transformierte IDS verbessern kann, und welche Schritte nötig sind, um dieses Potenzial in Zukunft voll auszuschöpfen.
 
 ## Gliederung
-
 1. Einleitung
 2. Hintergrung und Grundlagen
-    2.1 Intrusion Detection Systeme (IDS)
-    2.2 Künstliche Intelligenz in der Cybersecurity
-    2.3 Stand der Technik der IDS
+    1. Intrusion Detection Systeme (IDS)
+    2. Künstliche Intelligenz in der Cybersecurity
+    3. Stand der Technik der IDS
 3. Aktuelle Nutzung von KI in IDS (Status Quo)
-    3.1 KI-gestützte IDS-Ansätze
-    3.2 Anwendungsfälle
-    3.3 Evaluation des Status Quo
+    1. KI-gestützte IDS-Ansätze
+    2. Anwendungsfälle
+    3. Evaluation des Status Quo
 4. Alternative Methoden zu KI in IDS (ohne KI)
-    4.1 Signaturbasierte IDS
-    4.2 Statistische/Anomaliebasierte IDS ohne ML
-    4.3 Vergleich und Diskussion der traditionellen Ansätze
+    1. Signaturbasierte IDS
+    2. Statistische/Anomaliebasierte IDS ohne ML
+    3. Vergleich und Diskussion der traditionellen Ansätze
 5. Herausforderungen beim Einsatz von KI in IDS
-    5.1 Mangel an geeigneten Daten und Datenqualität
-    5.2 Fehlalarme (False Positives)
-    5.3 Adversariale Angriffe auf ML-IDS
-    5.4 Fehlende Erklärbarkeit und Transparenz
-    5.5 Rechenaufwand und Echtzeitfähigkeit
-    5.6 Weitere Herausforderungen und Grenzen
+    1. Mangel an geeigneten Daten und Datenqualität
+    2. Fehlalarme (False Positives)
+    3. Adversariale Angriffe auf ML-IDS
+    4. Fehlende Erklärbarkeit und Transparenz
+    5. Rechenaufwand und Echtzeitfähigkeit
+    6. Weitere Herausforderungen und Grenzen
 6. Zukunftspotenziale und zukünftige Entwicklungsmöglichkeiten
-    6.1 Fortschritte in KI-Modellen und Algorithmen
-    6.2 Integration von Explainable AI
-    6.3 Automatisierung und proaktive Abwehr
-    6.4 Spezifische Anwendungsfelder und Domänen-Anpassungen
-    6.5 Ausblick: Forschung und Zusammenarbeit
+    1. Fortschritte in KI-Modellen und Algorithmen
+    2. Integration von Explainable AI
+    3. Automatisierung und proaktive Abwehr
+    4. Spezifische Anwendungsfelder und Domänen-Anpassungen
+    5. Ausblick: Forschung und Zusammenarbeit
 7. Fazit und Ausblick
 
 ## Quellen
